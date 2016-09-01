@@ -1,0 +1,10 @@
+git clone http://www.github.com/timothytamara/TOS
+ls
+cd TOS
+touch coba.txt
+git status
+git add coba.txt
+git status
+git commit
+git push
+git pull
